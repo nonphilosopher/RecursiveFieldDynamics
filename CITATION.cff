@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the following:"
+authors:
+  - family-names: Aguero
+    given-names: Al L.
+    affiliation: Independent Theoretical Physics
+title: Recursive Field Dynamics, Emergent Geometry, and Spectral Collapse
+version: 1.0.0
+doi: 10.5281/zenodo.17500528
+date-released: 2025-11-01
+url: https://github.com/nonphilosopher/RecursiveFieldDynamics
+license: MIT
